@@ -54,10 +54,6 @@ I believe the best way to learn programming is by writing code, solving problems
 
 Rather than just watching tutorials, I aim to apply what I learn by building projects and improving them over time.
 
-## What's Next?
-
-My current focus is mastering C fundamentals and problem-solving. After building a solid foundation, I plan to explore other areas of software development, including frontend development.
-
 This is just the beginning of my journey!
 
 ---
